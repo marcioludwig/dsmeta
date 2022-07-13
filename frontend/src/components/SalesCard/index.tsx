@@ -47,10 +47,10 @@ function SalesCard() {
                         <tr>
                             <td className="show992">#001</td>
                             <td className="show576">08/07/2022</td>
-                            <td>Anaquim</td>
+                            <td>Vendedor 1</td>
                             <td className="show992">15</td>
                             <td className="show992">11</td>
-                            <td>R$ 55300,00</td>
+                            <td>R$ 92.100,00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButtom />
@@ -60,10 +60,10 @@ function SalesCard() {
                         <tr>
                             <td className="show992">#002</td>
                             <td className="show576">08/07/2022</td>
-                            <td>Anaquim</td>
+                            <td>Vendedor 2</td>
                             <td className="show992">18</td>
                             <td className="show992">7</td>
-                            <td>R$ 55300,00</td>
+                            <td>R$ 85.200,00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButtom />
@@ -73,10 +73,10 @@ function SalesCard() {
                         <tr>
                             <td className="show992">#003</td>
                             <td className="show576"> 08/07/2022</td>
-                            <td>Anaquim</td>
+                            <td>Vendedor 3</td>
                             <td className="show992">20</td>
                             <td className="show992">15</td>
-                            <td>R$ 55300,00</td>
+                            <td>R$ 80.900,00</td>
                             <td>
                                 <div className="dsmeta-red-btn-container">
                                     <NotificationButtom />
