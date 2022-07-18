@@ -73,7 +73,7 @@ function SalesCard() {
                                     <td>{new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(sale.amount)}</td>
                                     <td>
                                         <div className="dsmeta-red-btn-container">
-                                            <NotificationButtom />
+                                            <NotificationButtom saleId={sale.id}/>
                                         </div>
                                     </td>
                                 </tr>)
